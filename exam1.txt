@@ -1,4 +1,4 @@
-<!DOCTYPE html><br /><html><br /><head><br /></head><br /><body>
+﻿<!DOCTYPE html><br /><html><br /><head><br /></head><br /><body>
 請設計一程式，讓使用者輸入姓名、體重、身高，之後輸出姓名和BMI以及BMI狀態。
 
 BMI = 體重 (公斤) / (身高 * 身高) (公尺)
@@ -15,3 +15,4 @@ BMI狀態: BMI ＜ 18.5 輸出 tooLight，18.5 ≦ BMI＜24 輸出 normal，BMI 
 
 [b]※ 提示：使用 setprecision 設定小數點位數，並自行加入所需的函式庫。[/b]
 </body><br /></html>
+123
